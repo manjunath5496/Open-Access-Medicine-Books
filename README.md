@@ -6,13 +6,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(1).pdf" style="text-decoration:none;">War, Strategy and History: Essays In Honour Of Professor Robert O'neill</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(2).pdf" style="text-decoration:none;">Vermin, Victims and Disease</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
-Constitution and Quantification in Event Semantics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(3).pdf" style="text-decoration:none;">Leading People - Managing
+Organizations: Contemporary Public Health Leadership</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(4).pdf" style="text-decoration:none;">Negotiating Nursing: British Army Sisters And Soldiers In The Second World War</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
