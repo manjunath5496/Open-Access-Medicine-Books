@@ -10,27 +10,27 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(2).pdf" style="text-decoration:none;">Vermin, Victims and Disease</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(3).pdf" style="text-decoration:none;">Leading People - Managing
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(3).PDF" style="text-decoration:none;">Leading People - Managing
 Organizations: Contemporary Public Health Leadership</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(4).pdf" style="text-decoration:none;">Negotiating Nursing: British Army Sisters And Soldiers In The Second World War</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(5).pdf" style="text-decoration:none;">Grappling
 With The Bomb: Britain's Pacific H-bomb Tests</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(6).pdf" style="text-decoration:none;">Fatigue In Multiple Sclerosis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(6).PDF" style="text-decoration:none;">Fatigue In Multiple Sclerosis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(7).pdf" style="text-decoration:none;">Kastom, Property
 And Ideology: Land Transformations In Melanesia</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(8).pdf" style="text-decoration:none;"> Assessing Prenatal And Neonatal
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(8).PDF" style="text-decoration:none;"> Assessing Prenatal And Neonatal
 Gonadal Steroid Exposure For Studies Of Human Development: Methodological And Theoretical Challenges </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(9).pdf" style="text-decoration:none;">A Living History
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(9).PDF" style="text-decoration:none;">A Living History
 of Immunology</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(10).pdf" style="text-decoration:none;">Medicine and Philosophy: 
 A Twenty-First Century Introduction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(11).pdf" style="text-decoration:none;">Exploring Gender And Sex
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(11).PDF" style="text-decoration:none;">Exploring Gender And Sex
 Differences In Behavioral Dyscontrol: From Drug Addiction To Impulse Control Disorders</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(12).pdf" style="text-decoration:none;">Advancing the Science of Cancer in Latinos</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(13).pdf" style="text-decoration:none;">Neurotrauma: From
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(13).PDF" style="text-decoration:none;">Neurotrauma: From
 Emergency Room To Back To Day-by-day Life</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(14).pdf" style="text-decoration:none;">Leeuwenhoek's Legatees
@@ -41,7 +41,7 @@ and Beijerinck's Beneficiaries: A History of Medical Virology in the Netherlands
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(16).pdf" style="text-decoration:none;">Balancing the self: 
 Medicine, politics and the regulation of health in the twentieth century</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(17).pdf" style="text-decoration:none;">Cognition Across The
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(17).PDF" style="text-decoration:none;">Cognition Across The
 Psychiatric Disorder Spectrum: From Mental Health To Clinical Diagnosis</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(18).pdf" style="text-decoration:none;">Handbook on
@@ -59,12 +59,12 @@ and Intervention in Audiology: An African Perspective</a></li>
 Numbering Normal: Setting The Standards For Disability In The Interwar Period</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(24).pdf" style="text-decoration:none;">Role Of Intravenous
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(24).PDF" style="text-decoration:none;">Role Of Intravenous
 Levetiracetam In Acute Seizure Management</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(25).pdf" style="text-decoration:none;">Galen: Commentary on Hippocrates' Epidemics Book I Parts I-III</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(26).pdf" style="text-decoration:none;">Progress and pathology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(27).pdf" style="text-decoration:none;">Brief Interventions for Risky Drinkers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(27).PDF" style="text-decoration:none;">Brief Interventions for Risky Drinkers</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(28).pdf" style="text-decoration:none;">Population Ageing and Australia's Future</a></li>
@@ -74,7 +74,7 @@ Levetiracetam In Acute Seizure Management</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(30).pdf" style="text-decoration:none;">In Defence of Country: Life Stories of Aboriginal and Torres Strait Islander Servicemen and Women</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(31).pdf" style="text-decoration:none;">Antarctica: Music, sounds and cultural connections</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(32).pdf" style="text-decoration:none;">Causal Explanation in Psychiatry - Beyond Scientism and Scepticism</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(32).PDF" style="text-decoration:none;">Causal Explanation in Psychiatry - Beyond Scientism and Scepticism</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(33).pdf" style="text-decoration:none;">Compartment Syndrome</a></li>                              
 
@@ -83,19 +83,19 @@ Levetiracetam In Acute Seizure Management</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(35).pdf" style="text-decoration:none;">Family Experiments: 
 Middle-class, professional families in Australia and New Zealand c. 1880–1920</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(36).pdf" style="text-decoration:none;">Pediatric
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(36).PDF" style="text-decoration:none;">Pediatric
 Hypertension: Update</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(37).pdf" style="text-decoration:none;">Payment and philanthropy in British healthcare, 1918–48</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(38).pdf" style="text-decoration:none;">Obesity and Diabetes: Energy Regulation by Free Fatty Acid Receptors</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(39).pdf" style="text-decoration:none;">Unmet Needs in Dystonia</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(38).PDF" style="text-decoration:none;">Obesity and Diabetes: Energy Regulation by Free Fatty Acid Receptors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(39).PDF" style="text-decoration:none;">Unmet Needs in Dystonia</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(40).pdf" style="text-decoration:none;">Health Promotion
 in Children and Adolescents through Sport and Physical Activities</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(41).pdf" style="text-decoration:none;">Disability in industrial Britain: A cultural and literary history of impairment in the coal industry, 1880–1948</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(42).pdf" style="text-decoration:none;">Progress In Physical Activity
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(42).PDF" style="text-decoration:none;">Progress In Physical Activity
 And Exercise And Affective And Anxiety Disorders: Current Views, Perspectives And Future Directions</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(43).pdf" style="text-decoration:none;">Health and Children with Disabilities</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(43).PDF" style="text-decoration:none;">Health and Children with Disabilities</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(44).pdf" style="text-decoration:none;">Publishing Addiction Science: A Guide for the Perplexed</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(45).pdf" style="text-decoration:none;">Manipulating practices:
 A critical physiotherapy reader</a></li>  
@@ -129,7 +129,7 @@ Cases Spanning the Globe</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(58).pdf" style="text-decoration:none;">Animals and the
 Shaping of Modern Medicine: One Health and its Histories</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(59).pdf" style="text-decoration:none;">Global Challenges in Radiation Oncology</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(59).PDF" style="text-decoration:none;">Global Challenges in Radiation Oncology</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(60).pdf" style="text-decoration:none;">Pandemic Disease in the Medieval World: Rethinking the Black Death</a></li>
  
@@ -138,7 +138,7 @@ in the Twentieth Century In and Beyond the Asylum</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(62).pdf" style="text-decoration:none;">Harnessing the Bohemian: Artists As Innovation Partners in Rural and Remote Communities</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(63).pdf" style="text-decoration:none;">Less and Non-invasive Hemodynamic Monitoring Techniques</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(63).PDF" style="text-decoration:none;">Less and Non-invasive Hemodynamic Monitoring Techniques</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(64).pdf" style="text-decoration:none;">Understanding
 Statistics and Experimental Design: How to Not Lie with Statistics</a></li>
@@ -170,8 +170,8 @@ Nursing: A History of Psychiatric Care in Dutch Asylums </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(73).pdf" style="text-decoration:none;">Safer Healthcare: 
 Strategies for the Real World</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(74).pdf" style="text-decoration:none;">Medicine in Ancient Assur</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(75).pdf" style="text-decoration:none;">Surgical Infections</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(76).pdf" style="text-decoration:none;">The Association of Other Autoimmune Diseases in Patients With Thyroid Autoimmunity</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(75).PDF" style="text-decoration:none;">Surgical Infections</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(76).PDF" style="text-decoration:none;">The Association of Other Autoimmune Diseases in Patients With Thyroid Autoimmunity</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(77).pdf" style="text-decoration:none;">Disability, Health
 and Human Development</a></li> 
@@ -193,10 +193,10 @@ A Systems Biology Perspective</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(83).pdf" style="text-decoration:none;">Health and Wellbeing in Late Life</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(84).pdf" style="text-decoration:none;">Animals and Medicine: The Contribution of Animal Experiments to the Control of Disease</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(85).pdf" style="text-decoration:none;">Work-Life Balance: Essential or Ephemeral?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(85).PDF" style="text-decoration:none;">Work-Life Balance: Essential or Ephemeral?</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(86).pdf" style="text-decoration:none;">A Mission Divided: Race, Culture and Colonialism in Fiji's Methodist Mission</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(87).pdf" style="text-decoration:none;">Second Line Treatment of Non-Small Cell Lung Cancer: Clinical, Pathological and Molecular Aspects of Novel Promising Drugs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(87).PDF" style="text-decoration:none;">Second Line Treatment of Non-Small Cell Lung Cancer: Clinical, Pathological and Molecular Aspects of Novel Promising Drugs</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(88).pdf" style="text-decoration:none;">Pacific Youth: Local and Global Futures</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(89).pdf" style="text-decoration:none;">Data and Text
 Processing for Health and Life Sciences</a></li>
@@ -204,7 +204,7 @@ Processing for Health and Life Sciences</a></li>
   
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(90).pdf" style="text-decoration:none;"> Folding and aggregation studies
 in the acylphosphatase-like family</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(91).pdf" style="text-decoration:none;">Pediatric Venous Thromboembolism</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(91).PDF" style="text-decoration:none;">Pediatric Venous Thromboembolism</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(92).pdf" style="text-decoration:none;">Global Burden
 and Challenges of Melioidosis</a></li>
