@@ -308,76 +308,96 @@ in Public Health in Post-War Britain, 1948–2012</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(130).pdf" style="text-decoration:none;">Advances in Biological Psychiatry: Vol. 27 </a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(131).pdf" style="text-decoration:none;">Cadmium Sources
+and Toxicity</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(132).pdf" style="text-decoration:none;">Global Health
+Collaboration: Challenges and Lessons</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(133).pdf" style="text-decoration:none;">Barren Women: 
+Religion and Medicine in the Medieval Middle East</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(134).pdf" style="text-decoration:none;">Communicating medicine: British medical discourse in eighteenth-century reference works</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(135).pdf" style="text-decoration:none;">Unintended Consequences: The impact of migration law and policy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(136).pdf" style="text-decoration:none;">Clinical Recovery
+from CNS Damage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(137).pdf" style="text-decoration:none;">Stigmatization,
+Discrimination and Illness: Experiences among HIV-Seropositive Women in Tanga, Tanzania</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(138).pdf" style="text-decoration:none;">Mixed-Method Pilot Study: Effectiveness of HypnoBirthing in Labour Outcomes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(139).pdf" style="text-decoration:none;">Songs of the Empty Place: The Memorial Poetry of the Foi of the Southern Highlands Province of Papua New Guinea</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(140).pdf" style="text-decoration:none;">Institutionalizing Gender: Madness, the Family, and Psychiatric Power in Nineteenth-Century France</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(141).pdf" style="text-decoration:none;"> Australian Native Title Anthropology: Strategic practice, the law and the state</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(142).pdf" style="text-decoration:none;">PARTY RULES? Dilemmas of political party regulation in Australia</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(143).pdf" style="text-decoration:none;">Mobilities of Return: Pacific Perspectives</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(144).pdf" style="text-decoration:none;">Biomedical Insights
+that Inform the Diagnosis of ME/CFS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(145).pdf" style="text-decoration:none;">Emergence
+of infectious diseases: Risks and issues for societies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(146).pdf" style="text-decoration:none;">Talking it Through
+Responses to Sorcery and Witchcraft Beliefs and Practices in Melanesia</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(147).pdf" style="text-decoration:none;">Refining Event Extraction through Cross-document Inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(147).pdf" style="text-decoration:none;">Advances in
+Pharma Business Management and Research: Volume 1</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(148).pdf" style="text-decoration:none;">Using Document Level Cross-Event Inference to Improve Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(148).pdf" style="text-decoration:none;">Biotechnology in Europe and Latin America: prospects for co-operation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(149).pdf" style="text-decoration:none;">Event Discovery in Social Media Feeds</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(149).pdf" style="text-decoration:none;">Advances in the Prevention and Management of Obesity and Eating Disorders</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(150).pdf" style="text-decoration:none;">Using Cross-Entity Inference to Improve Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(150).pdf" style="text-decoration:none;">Competing for Influence: The Role of the Public Service in Better Government in Australia</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(151).pdf" style="text-decoration:none;">Event Extraction as Dependency Parsing </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(151).pdf" style="text-decoration:none;">Aging between Participation and Simulation </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(152).pdf" style="text-decoration:none;">Can Document Selection Help Semi-supervised Learning? A Case Study On Event Extraction </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(153).pdf" style="text-decoration:none;">Automatic Event Extraction with Structured Preference Modeling</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(154).pdf" style="text-decoration:none;">Joint Event Extraction via Structured Prediction with Global Features</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(152).pdf" style="text-decoration:none;">Implementing
+Pediatric Integrative Medicine in Practice </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(153).pdf" style="text-decoration:none;">Human Challenge
+Studies in Endemic Settings: Ethical and Regulatory Issues</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(154).pdf" style="text-decoration:none;">Updates in Pediatric
+Sleep and Child Psychiatry</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(155).pdf" style="text-decoration:none;">Argument Inference from Relevant Event Mentions in Chinese Argument Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(155).pdf" style="text-decoration:none;">Beyond Price: 
+Essays on Birth and Death</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(156).pdf" style="text-decoration:none;">A Structured Distributional Semantic Model for Event Co-reference</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(157).pdf" style="text-decoration:none;">Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(158).pdf" style="text-decoration:none;">Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(156).pdf" style="text-decoration:none;">Quo Vadis, Medicus? Health Behaviour Among Health Professionals and Students</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(157).pdf" style="text-decoration:none;">The Neoliberal State, Recognition and Indigenous Rights: New Paternalism to New Imaginings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(158).pdf" style="text-decoration:none;">Making Copyright Work for the Asian Pacific: Juxtaposing Harmonisation with Flexibility</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(159).pdf" style="text-decoration:none;">Cross-narrative temporal ordering of medical events </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(159).pdf" style="text-decoration:none;">Of Bodies and Symptoms </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(160).pdf" style="text-decoration:none;">An Annotation Framework for Dense Event Ordering</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(160).pdf" style="text-decoration:none;">Non-Vitamin K
+Antagonist Oral Anticoagulants: A Concise Guide</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(161).pdf" style="text-decoration:none;">The Ethics of
+Vaccination</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(162).pdf" style="text-decoration:none;">Reluctant Representatives: Blackfella Bureaucrats Speak in Australia's North</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(163).pdf" style="text-decoration:none;">Handbook
+of Secular Bioethics (I): Key Issues</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(164).pdf" style="text-decoration:none;">The Power of
+One on One: Human Libraries and the challenges of antiracism work</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(165).pdf" style="text-decoration:none;">The People Have Spoken: The 2014 Elections in Fiji</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(166).pdf" style="text-decoration:none;">Politics of preferential development: Trans-global study of affirmative action and ethnic conflict in Fiji, Malaysia and South Africa</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(167).pdf" style="text-decoration:none;">Expressions of Austronesian Thought and Emotions</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(168).pdf" style="text-decoration:none;">The Ethical and
+Legal Regulation of Human Tissue and Biobank Research in Europe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(169).pdf" style="text-decoration:none;">Remembering and
+Disremembering the Dead: Posthumous Punishment, Harm and Redemption over Time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(170).pdf" style="text-decoration:none;">Travel Medicine —
+Series I</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(171).pdf" style="text-decoration:none;">Autonomy:
+a Matter of Content</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(172).pdf" style="text-decoration:none;">Australian Clinical Legal Education: Designing and operating a best practice clinical program in an Australian law school</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(173).pdf" style="text-decoration:none;">New Genetics, New Identities</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/med(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
