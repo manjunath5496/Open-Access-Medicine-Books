@@ -642,7 +642,7 @@ of Pharmacologically-Active Natural Compounds</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(4).pdf" style="text-decoration:none;">Natural Products
 for Cancer Prevention and Therapy</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(5).pdf" style="text-decoration:none;">Glycolysis at 75: Is it Time to Tweak the First Elucidated Metabolic Pathway in History?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(6).pdf" style="text-decoration:none;">Anatomy and Physiology of Animals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(7).pdf" style="text-decoration:none;">The Laboratory Guinea Pig</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(8).pdf" style="text-decoration:none;"> Integrating Everything: The Integrated Practitioner </a></li>
@@ -713,7 +713,7 @@ Spectrometric Proteomics </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(42).pdf" style="text-decoration:none;">Pattern Recognition Receptors and Cancer</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(43).pdf" style="text-decoration:none;">The Vasopressin System and Behavior</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(44).pdf" style="text-decoration:none;">Textbook of Psychiatry</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(45).pdf" style="text-decoration:none;">Brain and Human Body Modeling 2020</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(46).pdf" style="text-decoration:none;">Model-Based
@@ -1085,6 +1085,6 @@ Science and Engineering Perspectives</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(218).pdf" style="text-decoration:none;">Biomedical
 Applications of Nanoparticles</a></li>
 
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sel(1).pdf" style="text-decoration:none;">Parasitic Insects, Mites and Ticks: Genera of Medical and Veterinary Importance</a></li>
  
  </ul>
