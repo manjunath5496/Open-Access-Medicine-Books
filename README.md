@@ -1469,36 +1469,44 @@ How far can event descriptions get us?</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(204).pdf" style="text-decoration:none;">The Natriuretic
 Hormones</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(205).pdf" style="text-decoration:none;">Illinois CCG Entity Discovery and Linking, Event Nugget Detection and Co-reference, and Slot Filler Validation Systems for TAC 2016</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(205).pdf" style="text-decoration:none;">Fluid Balance,
+Hydration, and Athletic Performance</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(206).pdf" style="text-decoration:none;">
-UTD's Event Nugget Detection and Coreference System at KBP 2016</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(207).pdf" style="text-decoration:none;">WIP Event Detection System at TAC KBP 2016 Event Nugget Track</a></li>
+Central Nervous System Metastases in Lung Cancer Patients: From Prevention to Diagnosis and Treatment</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(207).pdf" style="text-decoration:none;">Biological Efficacy of Natural and Chemically Modified Products against Oral Inflammatory Lesions</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(208).pdf" style="text-decoration:none;">Temporal Information Extraction
-Extracting Events and Temporal Expressions: A Literature Survey</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(208).pdf" style="text-decoration:none;">The Ethics
+of Educational Healthcare Placements in Low and Middle Income Countries</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(209).pdf" style="text-decoration:none;">The Algebra of Events</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(210).pdf" style="text-decoration:none;">Time in Language, Language in Time</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(209).pdf" style="text-decoration:none;">Oral health of
+Australian children</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(210).pdf" style="text-decoration:none;">Nutrition in Pregnancy:
+Volume II</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(211).pdf" style="text-decoration:none;">Verbs and Times</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(211).pdf" style="text-decoration:none;">THE rahui: Legal pluralism in Polynesian traditional management of resources and territories</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(212).pdf" style="text-decoration:none;">The stages of event extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(213).pdf" style="text-decoration:none;">Extracting Complex Biological Events with Rich Graph-Based Feature Sets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(212).pdf" style="text-decoration:none;">The Self-Directed Learner
+in Medical Education: The Three Pillar Model for developing self-directedness</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(213).pdf" style="text-decoration:none;">Psychosocial Advances in Neuro-Oncology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(214).pdf" style="text-decoration:none;">Biomedical Event Extraction without Training Data</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(215).pdf" style="text-decoration:none;">A Markov Logic Approach to Bio-Molecular Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(214).pdf" style="text-decoration:none;">Promising
+Detoxification Strategies to Mitigate Mycotoxins in Food and Feed</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(215).pdf" style="text-decoration:none;">Strange Blood: 
+The Rise and Fall of Lamb Blood Transfusion in 19th Century Medicine and Beyond</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(216).pdf" style="text-decoration:none;">Syntactic Dependency Based Heuristics for Biological Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(217).pdf" style="text-decoration:none;">Can One Language Bootstrap the Other: A Case Study on Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(216).pdf" style="text-decoration:none;">Learning from Agri-environment Schemes in Australia. Investing in Biodiversity and Other Ecosystem Services on Farms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(217).pdf" style="text-decoration:none;">Ethics and Drug
+Resistance: Collective Responsibility for Global Public Health</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(218).pdf" style="text-decoration:none;">Graph-based Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(219).pdf" style="text-decoration:none;">A Pairwise Event Coreference Model, Feature Impact and Evaluation for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(220).pdf" style="text-decoration:none;">Biomedical Event Extraction from Abstracts and Full Papers using Search-based Structured Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(218).pdf" style="text-decoration:none;">Commentary on Hippocrates' Epidemics book II: Parts I-VI</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(219).pdf" style="text-decoration:none;">Vocational Education and Training: The Northern Territory's history of public philanthropy</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(220).pdf" style="text-decoration:none;">Aging Well: Solutions to the Most Pressing Global Challenges of Aging</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(221).pdf" style="text-decoration:none;">Robust Biomedical Event Extraction with Dual Decomposition and Minimal Domain Adaptation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(221).pdf" style="text-decoration:none;">Civilian Lunatic
+Asylums During the First World War: A Study of Austerity on London’s Fringe</a></li>
 
  
  
