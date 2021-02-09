@@ -1106,34 +1106,35 @@ Management of Pediatric Diseases</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(10).pdf" style="text-decoration:none;">Evidence-Based Practices to Reduce Falls and Fall-Related Injuries Among Older Adults</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
-Lexical diversity and event coreference resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(11).pdf" style="text-decoration:none;">Lipid Signaling in T Cell Development and Function</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(12).pdf" style="text-decoration:none;">Improving outcomes in cerebral palsy with early intervention: new translational approaches</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(13).pdf" style="text-decoration:none;">Cross Talk between Lymph Node Lymphatic Endothelial Cells and T-Cells during Inflammation and Cancer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(14).pdf" style="text-decoration:none;">Macrophages Role in Integrating Tissue Signals and Biological Processes in Chronic Inflammation and Fibrosis</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(15).pdf" style="text-decoration:none;">Reassessing Twenty Years of Vaccine Development Against Tuberculosis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(16).pdf" style="text-decoration:none;">Optimizing Exercise for the Prevention and Treatment of Type 2 Diabetes</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(17).pdf" style="text-decoration:none;">Good News - Bad News: The Two Faces of Immune Privilege</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(18).pdf" style="text-decoration:none;">Energy metabolism and behavior in the corticotropin-releasing factor family of peptides</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(19).pdf" style="text-decoration:none;">Plant Natural
+Products for Human Health</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(20).pdf" style="text-decoration:none;">Ovarian Cancer Screening</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(21).pdf" style="text-decoration:none;">Tau oligomers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(22).pdf" style="text-decoration:none;">Recent Advances in
+Enteral Nutrition</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(23).pdf" style="text-decoration:none;">Digital Transformation of Animal Health Data: Proceedings of the AHEAD 2017 Workshop</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(24).pdf" style="text-decoration:none;">Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(24).pdf" style="text-decoration:none;">Epigenetic pathways in PTSD: how traumatic experiences leave their signature on the genome</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(25).pdf" style="text-decoration:none;">Third-Generation Neuroimaging: Translating Research into Clinical Utility</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
    
