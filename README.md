@@ -1542,7 +1542,13 @@ Resistance: Collective Responsibility for Global Public Health</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(221).pdf" style="text-decoration:none;">Civilian Lunatic
 Asylums During the First World War: A Study of Austerity on London’s Fringe</a></li>
 
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(222).pdf" style="text-decoration:none;">Cognitive Psychology</a></li> 
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(223).pdf" style="text-decoration:none;">Developmental Psychology</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(224).pdf" style="text-decoration:none;">General Biology (Laboratory Manual)</a></li>
+
  
  
  
