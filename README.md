@@ -1428,18 +1428,21 @@ The Physicist Rolf Widerøe – a Giant in the History of Accelerators</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(168).pdf" style="text-decoration:none;">New Models of Care for Patients with Severe Mental Illness – Bridging In- and Outpatients</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(169).pdf" style="text-decoration:none;">Colonial Caring: A History of Colonial and Post-Colonial Nursing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(170).pdf" style="text-decoration:none;">Drawing in the Land: Rock Art in the Upper Nepean, Sydney Basin, New South Wales</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(171).pdf" style="text-decoration:none;">Natural Compounds as New Cancer Treatments</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(172).pdf" style="text-decoration:none;">History, Power, Text: Cultural Studies and Indigenous Studies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(173).pdf" style="text-decoration:none;">Active Aging and Disease Management</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(174).pdf" style="text-decoration:none;">Acupuncture—
+Basic Research and Clinical Application</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(175).pdf" style="text-decoration:none;">Dual-use life science research and biosecurity in the 21st Century: Social, Technical, Policy, and Ethical Challenges</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(176).pdf" style="text-decoration:none;">
+Undergraduate Education for Public Health in the United States</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(177).pdf" style="text-decoration:none;">A Language-Independent Neural Network for Event Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(177).pdf" style="text-decoration:none;">The Trigemino-Cardiac Reflex: Beyond the Diving Reflex</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(178).pdf" style="text-decoration:none;">Event Nugget Detection with Forward-Backward Recurrent Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(179).pdf" style="text-decoration:none;">Identifying Potential Adverse Drug Events in Tweets Using Bootstrapped Lexicons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(178).pdf" style="text-decoration:none;">Hippocrates Now: 
+The 'Father of Medicine' in the Internet Age</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(179).pdf" style="text-decoration:none;">The Ischemic Penumbra: Still the Target for Stroke Therapies?</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(180).pdf" style="text-decoration:none;">Stress in Post-War Britain, 1945–85</a></li>
                               
