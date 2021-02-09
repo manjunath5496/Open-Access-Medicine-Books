@@ -1157,18 +1157,21 @@ Safety and Clinical Risk Management</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(35).pdf" style="text-decoration:none;">Sudden Death in Epilepsy: Basic and Translational Research</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(36).pdf" style="text-decoration:none;">CD4+ T cell differentiation in infection: amendments to the Th1/Th2 axiom</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(37).pdf" style="text-decoration:none;">Immune responses to AAV vectors, from bench to bedside</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(38).pdf" style="text-decoration:none;">Practicing Biomedicine at the Albert Schweitzer Hospital 1913–1965</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(39).pdf" style="text-decoration:none;">Imaging in Acute Stroke – New Options and State of the Art</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(40).pdf" style="text-decoration:none;">Precision medicine in oncology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(41).pdf" style="text-decoration:none;">Structural and Computational Glycobiology: Immunity and Infection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(42).pdf" style="text-decoration:none;">The Metabolic Challenges of Immune Cells in Health and Disease</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(43).pdf" style="text-decoration:none;">Novel Approaches
+to Minimising Mycotoxin Contamination</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(44).pdf" style="text-decoration:none;">Marine Biotoxins
+and Seafood Poisoning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(45).pdf" style="text-decoration:none;">The COST Manual of
+Laboratory Animal Care and Use: Refinement, Reduction, and Research</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
                              
