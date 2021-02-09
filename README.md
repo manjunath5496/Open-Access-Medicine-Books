@@ -1232,37 +1232,37 @@ Metabolism with Focus on Systemic Inflammation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(72).pdf" style="text-decoration:none;">Beyond Borders: Myotonic Dystrophies – A European Perception</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(73).pdf" style="text-decoration:none;">Frontiers in Brain Based Therapeutic Interventions and Biomarker Research in Child and Adolescent Psychiatry</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(74).pdf" style="text-decoration:none;">Multidrug Resistance in Cancer: Pharmacological Strategies from Basic Research to Clinical Issues</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(75).pdf" style="text-decoration:none;">The role of the immune system in the pathogenesis of diabetic complications</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(76).pdf" style="text-decoration:none;">Towards a molecular classification of colorectal cancer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(77).pdf" style="text-decoration:none;">Trends in Neuroendocrinology</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(78).pdf" style="text-decoration:none;">Brain-immune interactions in health and disease</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(79).pdf" style="text-decoration:none;">Eyeblink Conditioning in Psychiatric Conditions - State of the Field and Future Directions</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(80).pdf" style="text-decoration:none;">Targeting PI3K/Akt/mTOR Signaling in Cancer </a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(81).pdf" style="text-decoration:none;">Cancer Care Delivery and Women's Health</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(82).pdf" style="text-decoration:none;">New Advances on Zika Virus Research</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(83).pdf" style="text-decoration:none;">New Therapies and Immunological Findings in Melanoma and Other Skin Cancers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(84).pdf" style="text-decoration:none;">Drug-Diagnostics Co-Development in Oncology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(85).pdf" style="text-decoration:none;">Chronic Rhinosinusitis and
+Concomitant Medical Disorders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(86).pdf" style="text-decoration:none;">Mysteries of Type I IFN response: benefits versus detriments</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(87).pdf" style="text-decoration:none;">Children and Companion Animals: Psychosocial, Medical, and Neurobiological Implications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(88).pdf" style="text-decoration:none;">Allorecognition by Leukocytes of the Adaptive Immune System</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(89).pdf" style="text-decoration:none;">Beyond the conventional Renin Angiotensin System</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(90).pdf" style="text-decoration:none;"> Probiotics and Prebiotics in Pediatrics</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
