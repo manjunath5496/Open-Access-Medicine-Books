@@ -1135,24 +1135,27 @@ Enteral Nutrition</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(24).pdf" style="text-decoration:none;">Epigenetic pathways in PTSD: how traumatic experiences leave their signature on the genome</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(25).pdf" style="text-decoration:none;">Third-Generation Neuroimaging: Translating Research into Clinical Utility</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(26).pdf" style="text-decoration:none;">Pediatric
+Palliative Care</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(27).pdf" style="text-decoration:none;">The Origin of the Plasma Cell Heterogeneity</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(28).pdf" style="text-decoration:none;">Ways to improve tumor uptake and penetration of drugs into solid tumors</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(29).pdf" style="text-decoration:none;">Obesity-induced inflammation and insulin resistance</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(30).pdf" style="text-decoration:none;">Reducing Oral Health Disparities: What Can We Learn from Social, Environmental and Cultural Factors?</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(31).pdf" style="text-decoration:none;">Adrenal Cortex: From Physiology to Disease</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(32).pdf" style="text-decoration:none;">The Handbook
+of Salutogenesis</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(33).pdf" style="text-decoration:none;">Marine Glycosides</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(34).pdf" style="text-decoration:none;">Textbook of Patient
+Safety and Clinical Risk Management</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(35).pdf" style="text-decoration:none;">Sudden Death in Epilepsy: Basic and Translational Research</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
  
