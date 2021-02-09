@@ -633,37 +633,37 @@ and Image Processing</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/3/kn(70).pdf" style="text-decoration:none;">Therapeutic
 Strategies to Spinal Cord Injury</a></li> 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(1).pdf" style="text-decoration:none;">Autism Spectrum Disorders: Developmental Trajectories, Neurobiological Basis, Treatment Update</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(1).PDF" style="text-decoration:none;">Autism Spectrum Disorders: Developmental Trajectories, Neurobiological Basis, Treatment Update</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(2).pdf" style="text-decoration:none;">Modeling Disease Spread and Control</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(2).PDF" style="text-decoration:none;">Modeling Disease Spread and Control</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(3).pdf" style="text-decoration:none;">New Approaches for the Discovery
 of Pharmacologically-Active Natural Compounds</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(4).pdf" style="text-decoration:none;">Natural Products
 for Cancer Prevention and Therapy</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(5).pdf" style="text-decoration:none;">Glycolysis at 75: Is it Time to Tweak the First Elucidated Metabolic Pathway in History?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(5).PDF" style="text-decoration:none;">Glycolysis at 75: Is it Time to Tweak the First Elucidated Metabolic Pathway in History?</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(6).pdf" style="text-decoration:none;">Anatomy and Physiology of Animals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(7).pdf" style="text-decoration:none;">The Laboratory Guinea Pig</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(8).pdf" style="text-decoration:none;"> Integrating Everything: The Integrated Practitioner </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(9).pdf" style="text-decoration:none;">Molecular Dynamics at the Immunological Synapse</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(9).PDF" style="text-decoration:none;">Molecular Dynamics at the Immunological Synapse</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(10).pdf" style="text-decoration:none;">From soil to seed: micronutrient movement into and within the plant</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(11).pdf" style="text-decoration:none;">Microbial and Environmental Factors in Autoimmune and Inflammatory Diseases</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(12).pdf" style="text-decoration:none;">Comparative Studies of Energy Homeostasis in Vertebrates</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(13).pdf" style="text-decoration:none;">Identifying the Epileptic Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(10).PDF" style="text-decoration:none;">From soil to seed: micronutrient movement into and within the plant</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(11).PDF" style="text-decoration:none;">Microbial and Environmental Factors in Autoimmune and Inflammatory Diseases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(12).PDF" style="text-decoration:none;">Comparative Studies of Energy Homeostasis in Vertebrates</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(13).PDF" style="text-decoration:none;">Identifying the Epileptic Network</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(14).pdf" style="text-decoration:none;">Beverage Consumption
 Habits around the World: Association with Total Water and Energy Intakes</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(15).pdf" style="text-decoration:none;">Long-Term Consequences of Adolescent Drug Use: Evidence from Pre-Clinical and Clinical Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(15).PDF" style="text-decoration:none;">Long-Term Consequences of Adolescent Drug Use: Evidence from Pre-Clinical and Clinical Models</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(16).pdf" style="text-decoration:none;">The Schistosomiasis Vaccine - It Is Time to Stand Up</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(16).PDF" style="text-decoration:none;">The Schistosomiasis Vaccine - It Is Time to Stand Up</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(17).pdf" style="text-decoration:none;">Epigenetics of B Cells and Antibody Responses</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(17).PDF" style="text-decoration:none;">Epigenetics of B Cells and Antibody Responses</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(18).pdf" style="text-decoration:none;">Microbial Food Safety Along the Dairy Chain</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(18).PDF" style="text-decoration:none;">Microbial Food Safety Along the Dairy Chain</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(19).pdf" style="text-decoration:none;">Skills in
@@ -672,54 +672,54 @@ Rheumatology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(20).pdf" style="text-decoration:none;">Biological
 Activities of Alkaloids: From Toxicology to Pharmacology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(21).pdf" style="text-decoration:none;">NLR-protein functions in immunity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(21).PDF" style="text-decoration:none;">NLR-protein functions in immunity</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(22).pdf" style="text-decoration:none;">Links between
 Fibrogenesis and Cancer: Mechanistic and Therapeutic Challenges</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(23).pdf" style="text-decoration:none;">Advances in Prevention
 of Foodborne Pathogens of Public Health Concern during Manufacturing</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(24).pdf" style="text-decoration:none;">Sound, Music and Movement in Parkinson's Disease</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(24).PDF" style="text-decoration:none;">Sound, Music and Movement in Parkinson's Disease</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(25).pdf" style="text-decoration:none;">Regulation of Tissue Responses: The TWEAK/Fn14 Pathway and other TNF/ TNFR Superfamily Members that Activate Noncanonical NFkB Signaling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(25).PDF" style="text-decoration:none;">Regulation of Tissue Responses: The TWEAK/Fn14 Pathway and other TNF/ TNFR Superfamily Members that Activate Noncanonical NFkB Signaling</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(26).pdf" style="text-decoration:none;">Cell-Free
 Nucleic Acids</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(27).pdf" style="text-decoration:none;">Mycoplasma pneumoniae Clinical Manifestations, Microbiology, and Immunology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(27).PDF" style="text-decoration:none;">Mycoplasma pneumoniae Clinical Manifestations, Microbiology, and Immunology</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(28).pdf" style="text-decoration:none;">The Parallel March of Asthma and Allergy in Childhood: A Multi-Perspective Approach</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(28).PDF" style="text-decoration:none;">The Parallel March of Asthma and Allergy in Childhood: A Multi-Perspective Approach</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(29).pdf" style="text-decoration:none;">Mass
 Spectrometric Proteomics </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(30).pdf" style="text-decoration:none;">Antibody Repertoire and Graft Outcome Following Solid Organ Transplantation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(30).PDF" style="text-decoration:none;">Antibody Repertoire and Graft Outcome Following Solid Organ Transplantation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(31).pdf" style="text-decoration:none;">Homeostasis and Allostasis of Thyroid Function</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(32).pdf" style="text-decoration:none;">Emerging Technologies to Promote and Evaluate Physical Activity</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(31).PDF" style="text-decoration:none;">Homeostasis and Allostasis of Thyroid Function</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(32).PDF" style="text-decoration:none;">Emerging Technologies to Promote and Evaluate Physical Activity</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(33).pdf" style="text-decoration:none;">Arm and Hand Movement: Current Knowledge and Future Perspective</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(33).PDF" style="text-decoration:none;">Arm and Hand Movement: Current Knowledge and Future Perspective</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(34).pdf" style="text-decoration:none;">Tumor Hypoxia: Impact in Tumorigenesis, Diagnosis, Prognosis and Therapeutics</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(34).PDF" style="text-decoration:none;">Tumor Hypoxia: Impact in Tumorigenesis, Diagnosis, Prognosis and Therapeutics</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(35).pdf" style="text-decoration:none;">Proceedings of ICI Milan 2013</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(35).PDF" style="text-decoration:none;">Proceedings of ICI Milan 2013</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(36).pdf" style="text-decoration:none;">Programming HPA-axis by early life experience: Mechanisms of stress susceptibility and adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(36).PDF" style="text-decoration:none;">Programming HPA-axis by early life experience: Mechanisms of stress susceptibility and adaptation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(37).pdf" style="text-decoration:none;">Evidence-Based Programming for Older Adults</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(38).pdf" style="text-decoration:none;">Intrinsic Clocks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(39).pdf" style="text-decoration:none;">Antibody Fc Engineering: Towards Better Therapeutics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(40).pdf" style="text-decoration:none;">Mechanisms of Persistence, Survival, and Transmission of Bacterial Foodborne Pathogens in Production Animals</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(41).pdf" style="text-decoration:none;">Innate Immune Cell Determinants of T Cell Immunity: From Basic Mechanisms to Clinical Implications</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(42).pdf" style="text-decoration:none;">Pattern Recognition Receptors and Cancer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(37).PDF" style="text-decoration:none;">Evidence-Based Programming for Older Adults</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(38).PDF" style="text-decoration:none;">Intrinsic Clocks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(39).PDF" style="text-decoration:none;">Antibody Fc Engineering: Towards Better Therapeutics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(40).PDF" style="text-decoration:none;">Mechanisms of Persistence, Survival, and Transmission of Bacterial Foodborne Pathogens in Production Animals</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(41).PDF" style="text-decoration:none;">Innate Immune Cell Determinants of T Cell Immunity: From Basic Mechanisms to Clinical Implications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(42).PDF" style="text-decoration:none;">Pattern Recognition Receptors and Cancer</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(43).pdf" style="text-decoration:none;">The Vasopressin System and Behavior</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(43).PDF" style="text-decoration:none;">The Vasopressin System and Behavior</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(44).pdf" style="text-decoration:none;">Textbook of Psychiatry</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(45).pdf" style="text-decoration:none;">Brain and Human Body Modeling 2020</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(46).pdf" style="text-decoration:none;">Model-Based
 Tools for Pharmaceutical Manufacturing Processes</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(47).pdf" style="text-decoration:none;">Astrocytic-neuronal-astrocytic Pathway Selection for Formation and Degradation of Glutamate/GABA</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(47).PDF" style="text-decoration:none;">Astrocytic-neuronal-astrocytic Pathway Selection for Formation and Degradation of Glutamate/GABA</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(48).pdf" style="text-decoration:none;">Drug-Acceptor Interactions: Modeling Theoretical Tools to Test and Evaluate Experimental Equilibrium Effects</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(49).pdf" style="text-decoration:none;">AML in the
@@ -727,7 +727,7 @@ Molecular Age: From Biology to Clinical Management</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(50).pdf" style="text-decoration:none;">The Molecular and
 Cellular Basis for Parkinson's Disease</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(51).pdf" style="text-decoration:none;">Immune-Epithelial Crosstalk in Inflammatory Bowel Diseases and Mucosal Wound Healing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(51).PDF" style="text-decoration:none;">Immune-Epithelial Crosstalk in Inflammatory Bowel Diseases and Mucosal Wound Healing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(52).pdf" style="text-decoration:none;">Marine Natural
 Products and Obesity</a></li>
 
@@ -737,18 +737,18 @@ Revisited: Chemistry, Biochemistry and Biological Activities</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(54).pdf" style="text-decoration:none;">Diet and Metabolic Dysfunction, 
 Volume I: Evidence From Basic Research </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(55).pdf" style="text-decoration:none;">Are Rodent Models Fit for Investigation of Human Obesity and Related Diseases?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(55).PDF" style="text-decoration:none;">Are Rodent Models Fit for Investigation of Human Obesity and Related Diseases?</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(56).pdf" style="text-decoration:none;">Competences
 for Pharmacy Education and Practice in Europe</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(57).pdf" style="text-decoration:none;">Immunomodulatory Effects of Drugs for Treatment of Immune-Related Diseases</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(57).PDF" style="text-decoration:none;">Immunomodulatory Effects of Drugs for Treatment of Immune-Related Diseases</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(58).pdf" style="text-decoration:none;">Global health issues of aflatoxins in food and agriculture: Challenges and opportunities</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(58).PDF" style="text-decoration:none;">Global health issues of aflatoxins in food and agriculture: Challenges and opportunities</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(59).pdf" style="text-decoration:none;">iPS Cells for Modelling and
 Treatment of Human Diseases</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(60).pdf" style="text-decoration:none;">Immunoglobulin Therapy in the 21st Century: The Dark Side of the Moon</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(60).PDF" style="text-decoration:none;">Immunoglobulin Therapy in the 21st Century: The Dark Side of the Moon</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(61).pdf" style="text-decoration:none;"> The First Into the Dark: The Nazi Persecution of the Disabled</a></li>
  
@@ -757,107 +757,107 @@ Coatings for Biomedical Applications</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(63).pdf" style="text-decoration:none;">How Local Art Made Australia's National Capital</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(64).pdf" style="text-decoration:none;">Neuropsychopharmacology of Psychosis: Relation of Brain Signals, Cognition and Chemistry</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(64).PDF" style="text-decoration:none;">Neuropsychopharmacology of Psychosis: Relation of Brain Signals, Cognition and Chemistry</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(65).pdf" style="text-decoration:none;">Molecular Diagnostics in the Detection of Neurodegenerative Disorders </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(65).PDF" style="text-decoration:none;">Molecular Diagnostics in the Detection of Neurodegenerative Disorders </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(66).pdf" style="text-decoration:none;">Neuropeptides and Behaviour: From Motivation to Psychopathology</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(66).PDF" style="text-decoration:none;">Neuropeptides and Behaviour: From Motivation to Psychopathology</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(67).pdf" style="text-decoration:none;">New Advanced Wireless Technologies for Objective Monitoring of Motor Symptoms in Parkinson's Disease</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(67).PDF" style="text-decoration:none;">New Advanced Wireless Technologies for Objective Monitoring of Motor Symptoms in Parkinson's Disease</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(68).pdf" style="text-decoration:none;">Illustrated Manual of Pediatric Dermatology</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(69).pdf" style="text-decoration:none;">Current Progress And
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(69).PDF" style="text-decoration:none;">Current Progress And
 Challenges In The Development Of A Hepatitis C Virus Vaccine</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(70).pdf" style="text-decoration:none;">Data-based Radiation
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(70).PDF" style="text-decoration:none;">Data-based Radiation
 Oncology – Design Of Clinical Trials</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(71).pdf" style="text-decoration:none;">State-of-the-Art Research on C1q and the Classical Complement Pathway</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(71).PDF" style="text-decoration:none;">State-of-the-Art Research on C1q and the Classical Complement Pathway</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(72).pdf" style="text-decoration:none;">Searching for Immune Tolerance Manipulating New Molecules and Exploiting New Concepts on Lymphocyte Biology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(72).PDF" style="text-decoration:none;">Searching for Immune Tolerance Manipulating New Molecules and Exploiting New Concepts on Lymphocyte Biology</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(73).pdf" style="text-decoration:none;">Metabolism and Immune Tolerance</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(74).pdf" style="text-decoration:none;">Frontiers in Synaptic Plasticity: Dendritic Spines, Circuitries and Behavior</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(75).pdf" style="text-decoration:none;">International Perspectives on Health and Safety among Dairy Workers: Challenges, Solutions and the Future</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(76).pdf" style="text-decoration:none;">Modulators of hypothalamic-pituitary-gonadal axis for the control of spermatogenesis and sperm quality in vertebrates</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(73).PDF" style="text-decoration:none;">Metabolism and Immune Tolerance</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(74).PDF" style="text-decoration:none;">Frontiers in Synaptic Plasticity: Dendritic Spines, Circuitries and Behavior</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(75).PDF" style="text-decoration:none;">International Perspectives on Health and Safety among Dairy Workers: Challenges, Solutions and the Future</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(76).PDF" style="text-decoration:none;">Modulators of hypothalamic-pituitary-gonadal axis for the control of spermatogenesis and sperm quality in vertebrates</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(77).pdf" style="text-decoration:none;">Gluten-Free Diet</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(78).pdf" style="text-decoration:none;">Controversies and Perspectives in the Use of Postoperative Radiotherapy for Prostate Cancer</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(79).pdf" style="text-decoration:none;">Immune Interactions during the Reproductive Cycle</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(78).PDF" style="text-decoration:none;">Controversies and Perspectives in the Use of Postoperative Radiotherapy for Prostate Cancer</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(79).PDF" style="text-decoration:none;">Immune Interactions during the Reproductive Cycle</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(80).pdf" style="text-decoration:none;">Why Vaccines to HIV, HCV and Malaria Have So Far Failed - Challenges to Developing Vaccines against Immunoregulating Pathogens</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(80).PDF" style="text-decoration:none;">Why Vaccines to HIV, HCV and Malaria Have So Far Failed - Challenges to Developing Vaccines against Immunoregulating Pathogens</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(81).pdf" style="text-decoration:none;">Towards Elimination of Dog Mediated Human Rabies</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(82).pdf" style="text-decoration:none;">Molecular mechanisms regulating cytotoxic lymphocyte development and function, and their associations to human diseases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(81).PDF" style="text-decoration:none;">Towards Elimination of Dog Mediated Human Rabies</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(82).PDF" style="text-decoration:none;">Molecular mechanisms regulating cytotoxic lymphocyte development and function, and their associations to human diseases</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(83).pdf" style="text-decoration:none;">The frontiers of clinical research on transcranial direct current stimulation (tDCS) in Neuropsychiatry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(83).PDF" style="text-decoration:none;">The frontiers of clinical research on transcranial direct current stimulation (tDCS) in Neuropsychiatry</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(84).pdf" style="text-decoration:none;">Assyrian and Babylonian
 Scholarly Text Catalogues: Medicine, Magic and Divination</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(85).pdf" style="text-decoration:none;">Epileptic Seizures and the EEG: Measurement, Models, Detection and Prediction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(86).pdf" style="text-decoration:none;">Alternatives to Antimicrobial Growth Promoters and Their Impact in Gut Microbiota, Health and Disease</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(86).PDF" style="text-decoration:none;">Alternatives to Antimicrobial Growth Promoters and Their Impact in Gut Microbiota, Health and Disease</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(87).pdf" style="text-decoration:none;">Advances in Epithelial Ovarian Cancer: Model Systems, Microenvironmental Influences, Therapy, and Origins</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(88).pdf" style="text-decoration:none;">Trauma, Psychosis, and Posttraumatic Stress Disorder</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(89).pdf" style="text-decoration:none;">The Evolution and Development of the Antibody Repertoire</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(87).PDF" style="text-decoration:none;">Advances in Epithelial Ovarian Cancer: Model Systems, Microenvironmental Influences, Therapy, and Origins</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(88).PDF" style="text-decoration:none;">Trauma, Psychosis, and Posttraumatic Stress Disorder</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(89).PDF" style="text-decoration:none;">The Evolution and Development of the Antibody Repertoire</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(90).pdf" style="text-decoration:none;"> A Comparative Survey of the RF-amide Peptide Superfamily</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(91).pdf" style="text-decoration:none;">Emerging immune functions of non-hematopoietic stromal cells</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(90).PDF" style="text-decoration:none;"> A Comparative Survey of the RF-amide Peptide Superfamily</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(91).PDF" style="text-decoration:none;">Emerging immune functions of non-hematopoietic stromal cells</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(92).pdf" style="text-decoration:none;">Pathogenic Advances and Therapeutic Perspectives for Eosinophilic Inflammation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(93).pdf" style="text-decoration:none;">Autoimmuno-Anti-Tumour Immunity (AATI) – Understanding the Immune Responses against "Self" and "Altered-self"</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(94).pdf" style="text-decoration:none;">Brain Reward and Stress Systems in Addiction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(92).PDF" style="text-decoration:none;">Pathogenic Advances and Therapeutic Perspectives for Eosinophilic Inflammation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(93).PDF" style="text-decoration:none;">Autoimmuno-Anti-Tumour Immunity (AATI) – Understanding the Immune Responses against "Self" and "Altered-self"</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(94).PDF" style="text-decoration:none;">Brain Reward and Stress Systems in Addiction</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(95).pdf" style="text-decoration:none;">Induction of Central Nervous System Disease by the Adaptive Immune Response</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(95).PDF" style="text-decoration:none;">Induction of Central Nervous System Disease by the Adaptive Immune Response</a></li>  
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(96).pdf" style="text-decoration:none;">The Interplay
 of Microbiome and Immune Response in Health and Diseases</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(97).pdf" style="text-decoration:none;">Plastic Surgery for the Oncological Patient</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(97).PDF" style="text-decoration:none;">Plastic Surgery for the Oncological Patient</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(98).pdf" style="text-decoration:none;">Oncolytic Viruses - Genetically Engineering the Future of Cancer Therapy</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(98).PDF" style="text-decoration:none;">Oncolytic Viruses - Genetically Engineering the Future of Cancer Therapy</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(99).pdf" style="text-decoration:none;">Transcriptional Regulation in Cancers and Metabolic Diseases</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(99).PDF" style="text-decoration:none;">Transcriptional Regulation in Cancers and Metabolic Diseases</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(100).pdf" style="text-decoration:none;">Thyroid Hormone in Brain and Brain Cells</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(100).PDF" style="text-decoration:none;">Thyroid Hormone in Brain and Brain Cells</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(101).pdf" style="text-decoration:none;">Foot-and-Mouth Disease in Swine</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(101).PDF" style="text-decoration:none;">Foot-and-Mouth Disease in Swine</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(102).pdf" style="text-decoration:none;">How Salmonella infection can inform on mechanisms of immune function and homeostasis</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(102).PDF" style="text-decoration:none;">How Salmonella infection can inform on mechanisms of immune function and homeostasis</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(103).pdf" style="text-decoration:none;">Nephrotic syndrome in pediatric patients</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(103).PDF" style="text-decoration:none;">Nephrotic syndrome in pediatric patients</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(104).pdf" style="text-decoration:none;">Dendritic Cell Control of Immune Responses</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(104).PDF" style="text-decoration:none;">Dendritic Cell Control of Immune Responses</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(105).pdf" style="text-decoration:none;">The Making of
 Modern Psychiatry</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(106).pdf" style="text-decoration:none;">Regulation of Inflammation, Its Resolution and Therapeutic Targeting</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(106).PDF" style="text-decoration:none;">Regulation of Inflammation, Its Resolution and Therapeutic Targeting</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(107).pdf" style="text-decoration:none;">On the Origin and Function of Human NK-like CD8+ T Cells: Charting New Territories</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(107).PDF" style="text-decoration:none;">On the Origin and Function of Human NK-like CD8+ T Cells: Charting New Territories</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(108).pdf" style="text-decoration:none;">Gastrointestinal
 Variables and Drug Absorption: Experimental, Computational and In Vitro Predictive Approaches</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(109).pdf" style="text-decoration:none;">Bone Marrow T Cells at the Center Stage in Immunological Memory</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(109).PDF" style="text-decoration:none;">Bone Marrow T Cells at the Center Stage in Immunological Memory</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(110).pdf" style="text-decoration:none;">Cyanobacteria
 and Cyanotoxins: New Advances and Future Challenges </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(111).pdf" style="text-decoration:none;">From Sex Differences in Neuroscience to a Neuroscience of Sex Differences: New Directions and Perspectives</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(111).PDF" style="text-decoration:none;">From Sex Differences in Neuroscience to a Neuroscience of Sex Differences: New Directions and Perspectives</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(112).pdf" style="text-decoration:none;">The Healthcare Biotechnology Industry</a></li> 
@@ -868,9 +868,9 @@ and Cyanotoxins: New Advances and Future Challenges </a></li>
 Compounds and Cancer 2017</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(115).pdf" style="text-decoration:none;">Biologically Inspired Robotics</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(116).pdf" style="text-decoration:none;">Cancer Metabolism: Molecular Targeting and Implications for Therapy</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(116).PDF" style="text-decoration:none;">Cancer Metabolism: Molecular Targeting and Implications for Therapy</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(117).pdf" style="text-decoration:none;">Regulation of immune system cell functions by protein kinase C</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(117).PDF" style="text-decoration:none;">Regulation of immune system cell functions by protein kinase C</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(118).pdf" style="text-decoration:none;">Secondary
 Analysis of Electronic Health Records</a></li>  
@@ -878,25 +878,25 @@ Analysis of Electronic Health Records</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(119).pdf" style="text-decoration:none;">Innovative
 Medicine: Basic Research and Development</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(120).pdf" style="text-decoration:none;">Clinical Application of Stereotactic Body Radiotherapy (SBRT): Cranium to Prostate</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(120).PDF" style="text-decoration:none;">Clinical Application of Stereotactic Body Radiotherapy (SBRT): Cranium to Prostate</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(121).pdf" style="text-decoration:none;">Personalized Medicine and Neurosurgery</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(121).PDF" style="text-decoration:none;">Personalized Medicine and Neurosurgery</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(122).pdf" style="text-decoration:none;">Evolution of NK-mediated target recognition under the pressure of physiologic or pathologic stimuli</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(122).PDF" style="text-decoration:none;">Evolution of NK-mediated target recognition under the pressure of physiologic or pathologic stimuli</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(123).pdf" style="text-decoration:none;">Veterinary Bacterial Zoonoses</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(123).PDF" style="text-decoration:none;">Veterinary Bacterial Zoonoses</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(124).pdf" style="text-decoration:none;">The regulated secretory pathway in neuroendocrine cells</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(124).PDF" style="text-decoration:none;">The regulated secretory pathway in neuroendocrine cells</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(125).pdf" style="text-decoration:none;">Podocyte Pathology and Nephropathy</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(125).PDF" style="text-decoration:none;">Podocyte Pathology and Nephropathy</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(126).pdf" style="text-decoration:none;">
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(126).PDF" style="text-decoration:none;">
 Age-Related Vestibular Loss: Current Understanding and Future Research Directions</a></li> 
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(127).pdf" style="text-decoration:none;">Diet and
 Immune Function</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(128).pdf" style="text-decoration:none;">Experimental models of early exposure to alcohol: a way to unravel the neurobiology of mental retardation</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(128).PDF" style="text-decoration:none;">Experimental models of early exposure to alcohol: a way to unravel the neurobiology of mental retardation</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(129).pdf" style="text-decoration:none;">Anti-Photoagaing
 and Photo-Protective Compounds from Marine Organisms</a></li>   
@@ -907,47 +907,47 @@ Lifespans </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(131).pdf" style="text-decoration:none;">Minimally Invasive
 Glaucoma Surgery</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(132).pdf" style="text-decoration:none;">Secretion of Cytokines and Chemokines by Innate Immune Cells</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(132).PDF" style="text-decoration:none;">Secretion of Cytokines and Chemokines by Innate Immune Cells</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(133).pdf" style="text-decoration:none;">Stem Cell Genetic Fidelity </a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(133).PDF" style="text-decoration:none;">Stem Cell Genetic Fidelity </a></li>     
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(134).pdf" style="text-decoration:none;">Multiscale Biomechanics
 and Tribology of Inorganic and Organic Systems: In Memory of Professor Sergey Psakhie</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(135).pdf" style="text-decoration:none;">Tumor Cell/Dendritic Cell Interactions and the Influence of Tumors on Dendritic Cell-mediated Anti-Tumor Immune Responses and Dendritic Cell-Based Tumor Immunotherapies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(135).PDF" style="text-decoration:none;">Tumor Cell/Dendritic Cell Interactions and the Influence of Tumors on Dendritic Cell-mediated Anti-Tumor Immune Responses and Dendritic Cell-Based Tumor Immunotherapies</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(136).pdf" style="text-decoration:none;">The Palgrave Handbook of
 Critical Menstruation Studies</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(137).pdf" style="text-decoration:none;">The Coevolution of IDO1 and AhR in the Emergence of Regulatory T Cells in Mammals</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(137).PDF" style="text-decoration:none;">The Coevolution of IDO1 and AhR in the Emergence of Regulatory T Cells in Mammals</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(138).pdf" style="text-decoration:none;">Molecular Basis
 of Cardiovascular Diseases: Implications of Natriuretic Peptides</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(139).pdf" style="text-decoration:none;">The Role Of Arginase In
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(139).PDF" style="text-decoration:none;">The Role Of Arginase In
 Endothelial Dysfunction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(140).pdf" style="text-decoration:none;">Breaking the cycle: attacking the malaria parasite in the liver</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(140).PDF" style="text-decoration:none;">Breaking the cycle: attacking the malaria parasite in the liver</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(141).pdf" style="text-decoration:none;"> Interaction of Trypanosoma cruzi with Host Cells</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(141).PDF" style="text-decoration:none;"> Interaction of Trypanosoma cruzi with Host Cells</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(142).pdf" style="text-decoration:none;">Leveraging
 Data Science for Global Health</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(143).pdf" style="text-decoration:none;">PI3K signalling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(144).pdf" style="text-decoration:none;">Using Stress-Based Animal Models to Understand the Mechanisms Underlying Psychiatric and Somatic Disorders</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(145).pdf" style="text-decoration:none;">Microenvironment-Derived Stem Cell Plasticity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(146).pdf" style="text-decoration:none;">Chromatin and Transcriptional Tango on the Immune Dance Floor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(143).PDF" style="text-decoration:none;">PI3K signalling</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(144).PDF" style="text-decoration:none;">Using Stress-Based Animal Models to Understand the Mechanisms Underlying Psychiatric and Somatic Disorders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(145).PDF" style="text-decoration:none;">Microenvironment-Derived Stem Cell Plasticity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(146).PDF" style="text-decoration:none;">Chromatin and Transcriptional Tango on the Immune Dance Floor</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(147).pdf" style="text-decoration:none;">Morrison's Miracle: The 2019 Australian Federal Election</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(148).pdf" style="text-decoration:none;">Extracellular Vesicle-Mediated Processes in Cardiovascular Diseases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(148).PDF" style="text-decoration:none;">Extracellular Vesicle-Mediated Processes in Cardiovascular Diseases</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(149).pdf" style="text-decoration:none;">Surgery for Spine
 Disease and Intractable Pain</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(150).pdf" style="text-decoration:none;">Mechanisms Underpinning the Link between Emotion, Physical Health and Longevity</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(150).PDF" style="text-decoration:none;">Mechanisms Underpinning the Link between Emotion, Physical Health and Longevity</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(151).pdf" style="text-decoration:none;">Telemedicine in Low-Resource Settings </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(151).PDF" style="text-decoration:none;">Telemedicine in Low-Resource Settings </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(152).pdf" style="text-decoration:none;">Drug Metabolism,
 Pharmacokinetics and Bioanalysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(153).pdf" style="text-decoration:none;">New treatment perspectives in autism spectrum disorders</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(153).PDF" style="text-decoration:none;">New treatment perspectives in autism spectrum disorders</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/2/sed(154).pdf" style="text-decoration:none;">Neuroglia</a></li> 
  
 
