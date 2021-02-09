@@ -1369,7 +1369,7 @@ Of Metastatic Non-small Cell Lung Cancer (NSCLC) In New Era Of Personalised Medi
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(137).PDF" style="text-decoration:none;">Harm and Benefit of Plant and Fungal Secondary Metabolites in Food Animal Production</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(138).PDF" style="text-decoration:none;">How To Improve Immune
 Reconstitution In Allogeneic Hematopoietic Stem Cell Transplantation?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(139).PDF" style="text-decoration:none;">Pharmacist
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(139).pdf" style="text-decoration:none;">Pharmacist
 Services</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(140).pdf" style="text-decoration:none;">Omega-3 Fatty
 Acids in Health and Disease</a></li>
@@ -1379,7 +1379,7 @@ A Challenge for Interdisciplinary Research</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(142).PDF" style="text-decoration:none;">Psychomotor Symptomatology in Psychiatric Illnesses</a></li>                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(143).pdf" style="text-decoration:none;">Labour Lines and Colonial Power: Indigenous and Pacific Islander Labour Mobility in Australia</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(144).pdf" style="text-decoration:none;">Geography, Power, Strategy and Defence Policy: Essays in Honour of Paul Dibb</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(145).pdf" style="text-decoration:none;">Introduction to Microbiology: Laboratory Manual</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(146).PDF" style="text-decoration:none;">Toxicity of Pesticides on Health and Environment</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Medicine-Books/blob/main/1/ned(147).pdf" style="text-decoration:none;">Like Any Other Woman: The Lived Experience of Gynaecological Cancer</a></li>
